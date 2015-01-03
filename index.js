@@ -17,7 +17,7 @@ var db = knex.initialize({ // TODO: read from config file
 tables.create(db).then(function() {
 	var webserver = require('./lib/webserver').create(db);
 	webserver.listen(3000); // TODO: handle error
-}).error(function(err) {
+}).catch(function(err) {
 	console.log("messed up sql:", err);
 	process.exit(1); // TODO: make this entire error handler more sensible
 });
