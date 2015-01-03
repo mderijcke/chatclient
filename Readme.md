@@ -45,5 +45,5 @@ Just look through the code; it's full of comments of (usually minor) things that
 have to be done but where I was too lazy for at that point.
 
 ## License
-MIT (don't you dare to GPL your fork!)
+MIT (don't you dare to GPL it)
 
