@@ -1,0 +1,19 @@
+{
+  "name": "chatclient",
+  "version": "0.0.0",
+  "description": "A chat client for interacting with contacts on all of your networks. Targeting every JS enabled browser.",
+  "main": "index.js",
+  "dependencies": {
+    "bluebird": "~2.5.3",
+    "express": "~4.10.6",
+    "irc": "~0.3.7",
+    "knex": "~0.7.3",
+    "sqlite3": "~3.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vorlot",
+  "license": "MIT"
+}

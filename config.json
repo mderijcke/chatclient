@@ -1,0 +1,8 @@
+{
+	"db": {},
+	"protocols": [
+		"cc-irc",
+		"cc-xmpp"
+	]
+}
+
