@@ -1,6 +1,6 @@
 # chat client
-A chat client for interacting with contacts on all of your networks. Targeting
-every JS enabled browser. (even IE7!)
+A chat client for interacting with contacts on all of your networks. Runs in
+the browser with Node as backend.
 
 ## What
 A multi-protocol chat bouncer with REST API + a web interface that doesn't look
